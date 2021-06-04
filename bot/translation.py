@@ -15,7 +15,8 @@ Join our Group for more movies..
 </i>"""    
     
     HELP_TEXT = """
-Visit our group
+✨VISIT OUR GROUP FOR MORE MOVIES😎
+     👇
 @AMIGOMOVIES2
 """
     
