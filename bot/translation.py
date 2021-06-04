@@ -10,8 +10,8 @@ class Translation(object):
 Created to Work in  Amigo movies Group. 😉.
 You Can't Add Me to Your Group !! 🔕
 
-For More Details Click Help Button Below..
-@AMIGOMOVIES2
+Join our Group for more movies..
+@AMIGOMOVIES2 👈
 </i>"""    
     
     HELP_TEXT = """
